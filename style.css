@@ -1,0 +1,212 @@
+body {
+  background: rgb(0, 152, 238);
+  background-image: linear-gradient(
+    180deg,
+    rgb(0, 152, 238),
+    rgb(54, 101, 225)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  color: rgba(0, 0, 0, .8);
+}
+
+
+.top-logo-cont {
+  padding: 0.8% 0% 0% 2%;
+}
+
+
+.pandora-icon-top-left {
+
+  width: 7.5%;
+}
+
+.top-right-container {
+  margin: -1.7% 0% 0% 0%;
+  float: right;
+}
+
+.question-mark {
+  width: 7%;
+}
+
+.top-right-words {
+  margin: 0% 0% 0% 5%
+}
+
+.top-right-words:link {
+  color: white;
+  text-decoration: none;
+}
+
+.top-right-words:visited {
+  color: white;
+}
+
+.top-right-words:hover {
+  text-decoration: underline;
+}
+
+#log_in {
+  margin-right: 5%;
+}
+
+#log_in {
+  text-decoration: underline;
+}
+
+.summary-cont {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.summary {
+  color: white;
+  font-size: 28pt;
+  font-weight: 300;
+  font-family: Avenir Next, Avenir, Segoe UI, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.word-email-cont-center {
+  display: flex;
+  justify-content: center;
+}
+
+.word-email-cont {
+  float: left;
+  width: 33%;
+}
+
+.word-email {
+  color: white;
+  font-size: 10.5pt;
+  margin-left: 3.5%;
+}
+
+.email-text-area-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.email-text-area {
+  width: 30%;
+  height: 5vh
+}
+
+.word-password-cont-center {
+  display: flex;
+  justify-content: center;
+}
+
+.word-password-cont {
+  float: left;
+  width: 33%;
+}
+
+.word-password {
+  color: white;
+  font-size: 10.5pt;
+  margin-left: 3.5%;
+}
+
+.password-text-area-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.password-text-area {
+  width: 30%;
+  height: 5vh;
+}
+
+.log-in-btn {
+  margin: 1% 0% 0% 0%;
+  color: white;
+  background-color: rgb(93, 134, 253);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30.5%;
+  height: 6vh;
+  border: 0px;
+
+}
+
+.login-cont {
+  margin: 1% 0% 2.3% 0%;
+  display: flex;
+  justify-content: center;
+}
+
+.forgot-password-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.forgot-password:link {
+  color: white;
+}
+
+.forgot-password:visited {
+  color: white;
+}
+
+.forgot-password:hover {
+  color: white;
+}
+
+.dont-have-pda-cont {
+  display: flex;
+  justify-content: center;
+  margin: 3% 0% 0% 0%;
+}
+
+.dont-have-pda {
+  color: white;
+}
+
+.sign-up-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.sign-up {
+  color: white;
+}
+
+.btm-links-container {
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.btm-links {
+  font-size: 10pt;
+}
+
+.btm-links:link {
+  color: white;
+  text-decoration: none;
+}
+
+.btm-links:visited {
+  color: white;
+}
+
+.btm-links:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.btm-page-txt-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btm-page-txt {
+  color: rgb(152, 177, 248);
+  font-size: 8pt;
+}
